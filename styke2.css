@@ -1,0 +1,11 @@
+h1{
+    font-size: x-large;
+    font-style: inherit;
+    color: purple;
+    background-color: black gray white;
+
+}
+body{
+    background: url(./2css.jpg);
+    background-size:auto
+}
